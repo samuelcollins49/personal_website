@@ -48,60 +48,70 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Lehigh University",
+        "degree": "Bachelor of Science in Computer Science and Business",
+        "graduated": "May 2023",
+        "description": "Relevant Coursework - Software Engineering, Database Systems and Applications, Systems Software in C, Programming and Data Structures, Programming Languages, Discrete Structures and Algorithms, Financial Accounting, Managerial Accounting, Supply Chain Management, Finance."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Deloitte",
+        "title": "Intern",
+        "years": "May 2021 - June 2021",
+        "description": "Remote internship in Prague, Czech Republic. Performed analysis of SAP S/4HANA and SAP CM Enterprise Resource Planning systems. Created a consulting style presentation highlighting SAP S/4HANA and SAP CM features, applications, and implementation in relevant businesses. Presented findings to team leaders and sponsors at Deloitte."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Lehigh Computer Science and Business Association (CSBA)",
+        "title": "Vice President, Former Secretary",
+        "years": "April 2020 - May 2022",
+        "description": "Organize professional events for Computer Science and Business students at Lehigh. Assign and manage mentors for every incoming Computer Science and Business student. Assist students at Lehigh University in selecting classes and professional preparation."
+      },
+      {
+        "company": "Sigma Phi Delta, Professional Engineering Fraternity",
+        "title": "Professional Chairman, Former Academic Chairman, Professional Communications Chairman",
+        "years": "August 2020 - May 2022",
+        "description": "Network with organizations on campus to facilitate professional and philantrophy events for Lehigh students. Promote educational opportunities both on and off campus."
+      },
+      {
+        "company": "Glen Ridge Country Club",
+        "title": "Golf Caddie",
+        "years": "April 2018 - Present",
+        "description": "Assist members in playing the game of golf. Work with the rest of the Glen Ridge Country Club staff to facilitate the success of events."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "75%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Java",
+        "level": "75%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "C",
+        "level": "65%"
+      },
+      {
+        "name": "Oracle SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Rust",
+        "level": "20%"
+      },
+      {
+        "name": "React",
+        "level": "30%"
+      },
+      {
+        "name": "HTML",
+        "level": "15%"
       },
       {
         "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "level": "10%"
       }
     ]
   },
