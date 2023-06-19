@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Samuel Collins",
-    "occupation": "Computer Science & Business Student at Lehigh University",
+    "occupation": "Security and Privacy Technology Consultant at Protiviti",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "put stuff here.",
@@ -9,10 +9,10 @@
     "email": "samuelcollins49@yahoo.com",
     "phone": "973-747-8270",
     "address": {
-      "street": "13 Ferncliff Terrace",
-      "city": "Glen Ridge",
-      "state": "New Jersey",
-      "zip": "07028"
+      "street": "1 India St, Apt 4J",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02109"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "https://www.linkedin.com/in/samuelcollins49/overlay/1635488329805/single-media-viewer/",
@@ -65,6 +65,23 @@
         "description": "Network with organizations on campus to facilitate professional and philantrophy events for Lehigh students. Promote educational opportunities both on and off campus."
       }
     ],
+    "projects":[
+      {
+        "name": "Lehigh Merck Capstone Project",
+        "years": "Spring 2022 - Fall 2022",
+        "description": "Developed a web app specific to Merck workflows using React and NodeJS. Worked in an agile environment with 3 other students, faculty advisor, and Merck Employee."
+
+      },
+      {
+        "name": "Lehigh CSE 241 Insurance Company Project",
+        "years": "Spring 2021",
+        "description": "Built a relational database with Oracle SQL to simulate a system that would be used by an insurance company. Created ER diagrams using Lucid Chart based on business requirements. Used JDBC to create an application for multiple types of users to interact with database."
+
+      }
+
+
+    ],
+
     "skills": [
       {
         "name": "Git",
@@ -101,20 +118,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "Sigma Phi Delta Website",
-        "category": "Small project to overhaul the Lehigh Sigma Phi Delta website.",
-        "image": "spd.jpg",
-        "url": "https://lehighspd.org/"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
+
   },
   "testimonials": {
     "testimonials": [
